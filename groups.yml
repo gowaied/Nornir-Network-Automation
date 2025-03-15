@@ -1,0 +1,8 @@
+---
+cisco_routers:
+  platform: cisco_ios
+
+cisco_switches:
+  platform: cisco_ios
+
+ 
